@@ -35,7 +35,7 @@ Another alternative is to use portable distribution (see below).
 
 It is also possible to download portable version of *Simple Video Cutter* - `SimpleVideoCutterApp-win-Portable.zip`. Simply unzip the file into desired directory and starts from there. 
 
-### Virus ascanners
+### Virus scanners
 Simple Video Cutter uses [Velopack](https://github.com/velopack/velopack) (open source installer). It gives a great flexibility and simplifies upgrades which are performed automatically. 
 Unfortunstelly, binaries produced by Velopack are sometimes detected as virus by different virus scanners. If your virus scanner blocks access to the installer file, I recommend downloading the "standalone" package - `svc-standalone.zip` - which is built without Velopack support. It is fully functional version of the Simple Video Cutter, the only downside is that updates need to be done manually.  
 
