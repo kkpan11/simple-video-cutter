@@ -270,6 +270,12 @@
   <data name="toolStripButtonPlabackMute.ToolTipText" xml:space="preserve">
     <value>Stummschalten (Strg+M)</value>
   </data>
+  <data name="toolStripButtonPlabackPrevFrame.Text" xml:space="preserve">
+    <value>Vorheriges Bild</value>
+  </data>
+  <data name="toolStripButtonPlabackPrevFrame.ToolTipText" xml:space="preserve">
+    <value>Vorheriges Bild (,)</value>
+  </data>
   <data name="toolStripButtonPlabackNextFrame.Text" xml:space="preserve">
     <value>Nächstes Bild</value>
   </data>

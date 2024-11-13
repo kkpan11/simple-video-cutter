@@ -132,6 +132,9 @@
   <data name="label4.Text" xml:space="preserve">
     <value>ffmpeg.exe Pfad:</value>
   </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Größe der Vorschau:</value>
+  </data>
   <data name="textBoxVideoFileExtensions.ToolTip" xml:space="preserve">
     <value>Kommagetrennte Liste von Erweiterungen (mit Punkt)
 der zu berücksichtigenden Videodateien. Wichtig bei
